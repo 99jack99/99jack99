@@ -1,20 +1,59 @@
-# 💫About Me :
-🔭​ Aiming to be the best developer as I can.
-👨‍💻​ Im very curious about EVERYTHING in this world.
-🗣️​ Fun fact when I learn... I ask A LOT.
+<img src="./JACKSON.gif" width="100%" height="300"/>
 
-## 🌐Socials
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/J♛CK#7082) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jackson-almeida-da-luz-a9b7221a0) 
+<h1 align="center">Hi 👋,<br> I'm Jackson!</h1>
+<h3 align="center"><em>A very passionate developer</em></h3>
 
-# 💻Tech Stack
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-# 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=99jack99&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true)<br/>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=81928jack192921&label=Profile%20views&color=0e75b6&style=flat" alt="81928jack192921" /></p>
+<br>
+
+
+- 🔭 Aiming to be  **the best developer as I can**.
+- 👨‍💻 Im very curious about **EVERYTHING** in this world. 
+- ⚡ Fun fact **Im hella funny**.
+
+
+
+<hr>
+<h2>🤳🏻 Want to reach me?</h2>
+<p align="center">
+
+
+
+<p align="center">
+<br>
+<a href="https://twitter.com/78jack"><img  src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="https://twitter.com/78jack"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
+
+
+<hr>
+<h2>🧙​ Technologies I have touched</h2>
+<br>
+
+| <span>**Technologie Name** </span>	| **Icon** 	| 
+|:--------------------:	|:--------:	|
+|        _HTML5_       	|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/>     	    |   	
+|        _CSS3_        	|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/>          	|
+|        _SASS_        	|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="50" height="50"/>        	|
+|        _React_       	|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/>      	|
+|       _Angular_      	|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="50" height="50"/>         	|
+|      _Bootstrap_     	|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="50" height="50"/>         	|
+|     _JavaScript_     	|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/>           	|
+|      _Markdown_      	|          	|
+|     _Express_     	|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="50" height="50"/>           	|
+|       _Node.js_      	|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/>          	|
+| _Sql_ 	|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>           	|
+| _MongoDB_ 	|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="50"/>          	|
+|   _Sequelize_  	|         	|
+|   _Mongoose_  	|         	|
+|         _PHP_        	|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="50" height="50"/>          	|
+|         _NPM_        	|          	|
+|       _Docker_       	|<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="50" height="50"/>           	|
+|       _Trello_       	|          	|
+|         _Git_        	|<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/>           	|
+|         _Bash_        	| <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="50" height="50"/>       	| 
+
+<hr>
+<h2>📊 Some github stats</h2>
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=99jack99&theme=highcontrast&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=99jack99&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
-
----
-[![](https://visitcount.itsvg.in/api?id=99jack99&icon=5&color=3)](https://visitcount.itsvg.in)
