@@ -1,4 +1,4 @@
-<img src="./JACKSON.gif" width="100%" height="300"/>
+<img src="./Banner-animado.gif" width="100%" height="300"/>
 
 <h1 align="center">Hi 👋,<br> I'm Jackson!</h1>
 <h3 align="center"><em>A very passionate developer</em></h3>
