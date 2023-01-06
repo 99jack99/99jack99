@@ -20,7 +20,11 @@
 
 <p align="center">
 <br>
-<a href="www.linkedin.com/in/jacksonalmeidadaluz"><img  src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
+<div align="center"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></div> 
+<br>
+<h3 align="center"><em>www.linkedin.com/in/jacksonalmeidadaluz</em></h3>
+
+  
 </p>
 <hr>
 <h2>📊 Some github stats</h2>
