@@ -1,33 +1,55 @@
-<img src="./Banner-animado.gif" width="100%" height="250"/>
+<h2 align="left">Hi 👋! I am Jackson!</h2>
 
-<h1 align="center">Hi 👋,<br> I'm Jackson!</h1>
-<h3 align="center"><em>A very passionate developer</em></h3>
+###
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=81928jack192921&label=Profile%20views&color=0e75b6&style=flat" alt="81928jack192921" /></p>
-<br>
+<br clear="both">
 
+<div align="center">
+  <img height="200" src="./Banner-animado.gif"  />
+</div>
 
-- 🔭 Aiming to be better everyday!
-- ⚡ Fun fact **Im hella funny**.
+###
 
+<h3 align="left">Technologies I like to work</h3>
 
+###
 
-<hr>
-<h2>🤳🏻 Want to reach me?</h2>
-<p align="center">
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" alt="typescript logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="50" alt="vuejs logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html5 logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="css3 logo"  />
+</div>
 
+###
 
+<h3 align="left">Want to reach me?</h3>
 
-<p align="center">
-<br>
-<div align="center"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></div> 
-<br>
-<h3 align="center"><em>www.linkedin.com/in/jacksonalmeidadaluz</em></h3>
+<div align="left">
+  <a href="www.linkedin.com/in/jacksonalmeidadaluz" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>
 
-  
-</p>
-<hr>
-<h2>📊 Some github stats</h2>
+###
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=99jack99&theme=highcontrast&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=99jack99&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<h3 align="left">Some stats</h3>
+
+<div align="center">
+<img align="right" border-radius="100" width="250" height="170" src="https://media.giphy.com/media/CgueQ55XydeE0/giphy.gif"/>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=99jack99&hide_progress=true)
+</div>
+
+<br/>
+
+###
+
+<h3 align="left">See you soon🖖</h3>
+
+###
